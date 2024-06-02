@@ -1,7 +1,5 @@
 # Exam_Programming
 
-## Information
-
 **Examination in DAPE1400 - Programming**
 
 **Grade**: A
